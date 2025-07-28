@@ -50,4 +50,4 @@ Through this project, I have gained valuable knowledge about:
 - **Indexing Techniques** (for faster searching)
 
 ## Contact
-For any questions or feedback, feel free to reach out via LinkedIn - www.linkedin.com/in/jenarththan-akilan-65b912296
+For any questions or feedback, feel free to reach out via LinkedIn - [www.linkedin.com/in/jenarththan-akilan-65b912296](https://www.linkedin.com/in/shriganeshan-nathiskar-202053232/)
